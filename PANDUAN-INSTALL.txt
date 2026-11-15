@@ -1,0 +1,8 @@
+TBTimes Free v1.2.6
+
+Cadangkan tema melalui Blogger > Tema > Cadangkan.
+Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
+Free: slot iklan tidak aktif dan kredit Tema Blogger tetap.
+Premium: https://www.temablogger.com/2026/11/tbtimes-template-blogger-portal-berita.html
+
+Upgrade tanpa menimpa pengaturan: unduh cadangan XML dari Blogger, gunakan fitur pembaruan XML yang sudah dipakai pada dashboard pelanggan, kemudian pasang hasilnya. Simpan backup.
