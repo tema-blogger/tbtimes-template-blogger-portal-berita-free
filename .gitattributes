@@ -1,0 +1,2 @@
+# Keep downloadable XML byte-identical to its published checksum.
+*.xml -text
