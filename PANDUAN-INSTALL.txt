@@ -1,4 +1,4 @@
-TBTimes Free v1.2.6
+TBTimes Free v1.2.7
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
