@@ -1,4 +1,4 @@
-TBTimes Free v1.2.8
+TBTimes Free v1.2.9
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
@@ -8,3 +8,5 @@ Premium: https://www.temablogger.com/2026/11/tbtimes-template-blogger-portal-ber
 Upgrade tanpa menimpa pengaturan: unduh cadangan XML dari Blogger, gunakan fitur pembaruan XML yang sudah dipakai pada dashboard pelanggan, kemudian pasang hasilnya. Simpan backup.
 
 Kredit footer dan kode inti edisi Free wajib dipertahankan. Jika berubah, tema memulihkan kredit dan menampilkan tombol menuju temablogger.com. Pengaturan Tata Letak tetap dapat digunakan.
+
+Pembaruan Free: cadangkan XML tema yang terpasang. Jalankan python UPDATE-FREE.py backup.xml TBTimes-v1.2.9-Free.xml hasil-update.xml, lalu unggah hasil-update.xml. Simpan cadangan asli.

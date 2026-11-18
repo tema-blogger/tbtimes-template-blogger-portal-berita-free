@@ -48,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 
-<!-- TemaBlogger release | product=tbtimes | releaseVersion=1.2.8 | date=2026-11-17 | delivery=free-v1 | basePremiumVersion=1.2.6 -->
+<!-- TemaBlogger release | product=tbtimes | releaseVersion=1.2.9 | date=2026-11-18 | delivery=free-v1 | basePremiumVersion=1.2.6 -->
 
 <!DOCTYPE html>
-<html b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:version='2' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' b:templateVersion="1.2.8">
+<html b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:version='2' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' b:templateVersion="1.2.9">
 <!-- sae-theme: TBTimes v1.2.0 | Source pemilik -->
 <head><meta content='width=device-width, initial-scale=1' name='viewport'/><b:include data='blog' name='all-head-content'/><title><data:blog.pageTitle/></title><link href='https://fonts.googleapis.com' rel='preconnect'/><link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/><link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&amp;display=optional' media='print' onload='this.onload=null;this.media=&quot;all&quot;' rel='stylesheet'/><noscript><link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&amp;display=optional' rel='stylesheet'/></noscript><b:skin><![CDATA[/*
 <Variable name="accent" description="Warna Aksen" type="color" default="#ed1c24" value="#ed1c24"/>
@@ -273,7 +273,7 @@ body#layout .tb-free-lock-note{display:block;color:#52627a;font-size:13px}
 <b:section class='tb-license-settings' id='tbLicenseSettings' name='Lisensi Tema Blogger' showaddelement='yes'>
   <b:widget id='HTML98' locked='true' title='License Key' type='HTML' version='2' visible='true'>
     <b:widget-settings><b:widget-setting name='content'></b:widget-setting></b:widget-settings>
-    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Versi Free. Untuk iklan dan pengaturan kredit footer, gunakan paket Premium.</div></b:includable>
+    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Edisi Free aktif tanpa pembelian atau kode lisensi. TemaBlogger adalah pembuat template ini. Pengaturan logo, menu, warna, dan gadget tetap dikelola melalui Tata Letak.</div></b:includable>
   </b:widget>
 </b:section>
 
